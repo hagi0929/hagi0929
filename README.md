@@ -1,4 +1,18 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=timeGradient&amp;height=230&amp;text=%F0%9F%91%8BHI%20THERE&amp;fontColor=24292D&amp;fontSize=50&amp;desc=welcome%20to%20Jaehack's%20profile&amp;animation=twinkling&amp;fontAlign=45&amp;fontAlignY=40&amp;descSize=17&amp;descAlign=49&amp;descAlignY=51" alt="header">
+</p> 
+<p align=center>
+    <a href="https://www.instagram.com/ha.__.gi/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="INS">
+    </a>
+    <a href="https://www.facebook.com/hagi0929/">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="FB">
+    </a>
+    <a href="https://www.google.com/search?q=not+yet+ready">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LI">
+    </a>
+    <a href="https://www.google.com/search?q=not+yet+ready">
+        <img src="https://img.shields.io/badge/personal website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="PW">
+    </a>
 </p>
 <h2 align=center>🖥️Languages</h2>
 <p align=center>
