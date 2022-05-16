@@ -14,11 +14,8 @@
         <img src="https://img.shields.io/badge/personal website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="PW">
     </a>
     </br>
-    <h4 align=center>
-        I'm <b>jaehak</b> and a university student who always had a dream to be a field of <b>software development
-        I'm <b>jaehak</b>. I have a great <b>interest</b> in <b>Machine learning, Data science, Algorithms, and Competitive Programming.</b>
-    </h4>
-<em><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:<em>
+        I'm <b>jaehak</b> and a university student who always had a dream to be a field of <b>software development</b>.I have a great <b>interest</b> in <b>Machine learning, Data science, Algorithms, and Competitive Programming.</b> </br>
+<em><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <b>I love connecting with different people</b> so if you want to say <b><a href="https://discord.com/users/398801194669178881">Hi</a>, I'll be happy to meet you more!</b> :blush:<em>
     </br>
 </p>
 
