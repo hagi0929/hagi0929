@@ -14,7 +14,9 @@
         <img src="https://img.shields.io/badge/personal website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="PW">
     </a>
 </p>
-<h2 align=center>🖥️Languages</h2>
+<h2 align=center>Skills</h2>
+
+<h3 align=center>Languages</h3>
 <p align=center>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
