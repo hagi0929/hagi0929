@@ -32,3 +32,11 @@
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
 </p>
+
+<h3 align=center>Competitive Programming</h3>
+<p align=center>
+    <a href="https://solved.ac/ministove3yo">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ministove3yo" alt="Solved.ac프로필">
+    </a>
+    
+</p>
