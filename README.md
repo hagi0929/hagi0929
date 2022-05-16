@@ -15,7 +15,7 @@
     </a>
     </br>
     </br>
-Iam university student majoring in Mathmatics. My interests are Machine learning, Data science, Algorithms, and Programming.
+Hi this is jaehak kim and my interests are Machine learning, Data science, Algorithms, and Programming.
 </p>
 
 
