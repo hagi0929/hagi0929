@@ -14,7 +14,7 @@
         <img src="https://img.shields.io/badge/personal website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="PW">
     </a>
     </br>
-        I'm <b>jaehak</b>, I'm university student who always had a dream to be in a field of <b>software development</b> since I was 13. I have a great <b>interest</b> in <b>Machine learning</b>, <b>Data science</b>, <b>Algorithms</b>, and <b>Competitive programming.</b> </br>
+        I'm <b>jaehak</b>, I'm high school student who always had a dream to be in a field of <b>software development</b> since I was 13. I have a great <b>interest</b> in <b>Artificial intelligence</b>, <b>Cryptography</b>, <b>Computer algorithm</b>, and <b>Competitive programming.</b> </br>
 <em><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <b>I love connecting with different people</b> so if you want to say <b><a href="https://discord.com/users/398801194669178881">Hi</a>, I'll be happy to meet you more!</b> :blush:<em>
     </br>
 </p>
