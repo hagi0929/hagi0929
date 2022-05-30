@@ -7,7 +7,7 @@
     <a href="https://www.facebook.com/hagi0929/">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="FB">
     </a>
-    <a href="https://www.google.com/search?q=not+yet+ready">
+    <a href="https://www.youtube.com/watch?v=q6EoRBvdVPQ">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LI">
     </a>
     <a href="https://www.google.com/search?q=not+yet+ready">
