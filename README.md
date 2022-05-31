@@ -10,7 +10,7 @@
     <a href="https://www.youtube.com/watch?v=q6EoRBvdVPQ">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LI">
     </a>
-    <a href="https://www.google.com/search?q=not+yet+ready">
+    <a href="https://hagi0929.github.io/website/">
         <img src="https://img.shields.io/badge/personal website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="PW">
     </a>
     </br>
