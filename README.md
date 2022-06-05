@@ -3,7 +3,7 @@
     </br>
     <a href="https://www.instagram.com/ha.__.gi/"> 
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="INS">
-    </a>
+    </a> 
     <a href="https://www.facebook.com/hagi0929/">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="FB">
     </a>
@@ -20,7 +20,6 @@
 </p>
 
 <h2 align=center>Tech Stack</h2>
-
 <h3 align=center>Languages</h3>
 <p align=center>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
