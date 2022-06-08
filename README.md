@@ -38,5 +38,4 @@
     <a href="https://solved.ac/ministove3yo">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ministove3yo" alt="Solved.ac프로필">
     </a>
-    
 </p>
