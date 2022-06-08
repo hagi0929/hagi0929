@@ -14,13 +14,14 @@
         <img src="https://img.shields.io/badge/personal website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="PW">
     </a>
     </br>
-        I'm <b>jaehak</b>, student who always had a dream to be in a field of <b>software development</b> since I was 13. I have a great <b>interest</b> in <b>Artificial intelligence</b>, <b>Cryptography</b>, <b>Computer algorithm</b>, and <b>Competitive programming.</b> </br>
+        I'm <b>jaehak</b>, enthusiastic university student, and a math lover who's passionate in combining mathematics into programming. I have a great <b>interest</b> in <b>Artificial intelligence</b>, <b>Cryptography</b>, <b>Computer algorithm</b>, and <b>Competitive programming</b>.
+    </br>
 <em><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <b>I love connecting with different people</b> so if you want to say <b><a href="https://discord.com/users/398801194669178881">Hi</a>, I'll be happy to meet you more!</b> :blush:<em>
     </br>
 </p>
 
 <h2 align=center>⚒️Tech Stack🛠️</h2>
-<h3 align=center>🪄Languages that I am working with</h3>
+<h3 align=center>🪄Languages that I finished learning</h3>
 <p align=center>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
