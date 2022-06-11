@@ -14,7 +14,7 @@
         <img src="https://img.shields.io/badge/personal website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="PW">
     </a>
     </br>
-        I'm <b>jaehak</b>, enthusiastic university student, and a math lover who's passionate in combining mathematics into programming. I have a great <b>interest</b> in <b>Artificial intelligence</b>, <b>Cryptography</b>, <b>Computer algorithm</b>, and <b>Competitive programming</b>.
+        I'm <b>jaehak</b>, enthusiastic university student, and a math lover who's passionate in combining mathematics into programming. I have a great <b>interest</b> in <b>Artificial intelligence</b>, <b>Cryptography</b>, <b>Computer algorithm</b>, and <b>Problem solving</b>.
     </br>
 <em><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <b>I love connecting with different people</b> so if you want to say <b><a href="https://discord.com/users/398801194669178881">Hi</a>, I'll be happy to meet you more!</b> :blush:<em>
     </br>
@@ -41,5 +41,10 @@
 <p align=center>
     <a href="https://solved.ac/ministove3yo">
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ministove3yo" alt="Solved.ac프로필">
+    </a>
+</p>
+<p align=center>
+    <a href="https://leetcode.com/hagi0929/">
+  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=hagi0929&theme=dark" width="350"/>
     </a>
 </p>
