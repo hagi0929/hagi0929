@@ -45,6 +45,6 @@
 </p>
 <p align=center>
     <a href="https://leetcode.com/hagi0929/">
-  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=hagi0929&theme=dark" width="350"/>
+  <img alt="LeetCode Stat Card" src="https://leetcode-stats-six.vercel.app/api?username=hagi0929&theme=dark" width="350"/>
     </a>
 </p>
