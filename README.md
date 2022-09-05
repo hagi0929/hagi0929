@@ -12,7 +12,7 @@
     </a>
     <a href="https://hagi0929.github.io/personal-website-v2/">
         <img src="https://img.shields.io/badge/personal website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="PW">
-    </a>
+    </a> 
     </br>
         I'm <b>jaehak</b>, enthusiastic university student, and a math lover who's passionate in combining mathematics into programming. I have a great <b>interest</b> in <b>Artificial intelligence</b>, <b>Cryptography</b>, <b>Computer algorithm</b>, and <b>Problem solving</b>.
     </br>
