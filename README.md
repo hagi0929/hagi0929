@@ -16,7 +16,7 @@
     </br>
         I'm <b>jaehak</b>, enthusiastic university student, and a math lover who's passionate in combining mathematics into programming. I have a great <b>interest</b> in <b>Artificial intelligence</b>, <b>Cryptography</b>, <b>Computer algorithm</b>, and <b>Problem solving</b>.
     </br>
-<em><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <b>I love connecting with different people</b> so if you want to say <b><a href="https://discord.com/users/398801194669178881">Hi</a>, I'll be happy to meet you more!</b> :blush:<em>
+<em><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <b>I love connecting with different people</b> so if you want to say <b><a href="https://discord.com/users/398801194669178881">Hi</a>, I'll be happy to meet you more!</b> :blush:<em> 
     </br>
 </p>
 <h2 align=center>⚒️Tech Stack🛠️</h2>
