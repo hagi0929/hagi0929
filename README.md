@@ -35,17 +35,9 @@
 </p>
 <h3 align=center>✍️Currently, I am learning...</h3>
 <p align=center>
-    <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby">
-    <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
 </p>
-<h3 align=center>✨Algorithm</h3>
-<p align=center>
-    <a href="https://solved.ac/ministove3yo">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ministove3yo" alt="Solved.ac프로필">
-    </a>
-</p>
-<p align=center>
-    <a href="https://leetcode.com/hagi0929/">
-  <img alt="LeetCode Stat Card" src="https://leetcode-stats-six.vercel.app/api?username=hagi0929&theme=dark" width="350"/>
-    </a>
+<h3 align=center>Wait... but does these matter?</h3>
+<h1 align=center>Not really.</h1>
+<p>
+  What truly counts is the ability to adapt, innovate, and solve problems with whatever tools are at hand. It's about the journey of continuous learning and applying that knowledge creatively. That's the essence of being a Software Engineer. My focus is simple: not just on fleeting tech trends, but on becoming a solid software engineer with robust problem-solving skills
 </p>
