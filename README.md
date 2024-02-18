@@ -34,13 +34,3 @@
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
 </p>
 <h3 align=center>✍️Currently, I am learning...</h3>
-<h2 align=center>Wait... but does these matter? 🤔</h2>
-<h1 align=center>Not really.</h1>
-<p>
-  What truly counts is the ability to adapt, innovate, and solve problems with whatever tools are at hand. It's about the journey of continuous learning and applying that knowledge creatively. That's the essence of being a Software Engineer. 
-</p>
-
-<p align=center>
-My focus is <b>simple</b>: not just on fleeting tech trends, but on becoming a solid software engineer with robust problem-solving skills
-</p>
-
