@@ -12,4 +12,4 @@
     </br>
 <em><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <b>I love connecting with different people</b> so if you want to say <b><a href="https://discord.com/users/398801194669178881">Hi</a>, I'll be happy to meet you more!</b> :blush:<em>
     </br>
-</p>
+</p> 
