@@ -3,7 +3,7 @@
     </br>
     <a href="https://www.linkedin.com/in/ha-gi/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LI">
-    </a>
+    </a> 
     <a href="https://hagi0929.github.io/">
         <img src="https://img.shields.io/badge/personal website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="PW">
     </a> 
